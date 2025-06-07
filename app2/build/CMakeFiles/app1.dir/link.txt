@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app1.dir/console.cpp.o CMakeFiles/app1.dir/game.cpp.o CMakeFiles/app1.dir/main.cpp.o CMakeFiles/app1.dir/user.cpp.o -o app1 
